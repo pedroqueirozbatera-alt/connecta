@@ -57,3 +57,4 @@ O `firebaseConfig` do front-end pode ser público sem risco — quem protege os 
 
 - LinkedIn: https://www.linkedin.com/in/pedro-henrique-queiroz-610673399/
 - GitHub: https://github.com/pedroqueirozbatera-alt
+<img width="1920" height="1080" alt="Captura de Tela 2026-09-10 às 23 57 08" src="https://github.com/user-attachments/assets/fa150fbb-361c-4700-ad04-0236c422efa6" />
